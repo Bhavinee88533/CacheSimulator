@@ -8,6 +8,6 @@ This project demonstrates how a CPU cache works by simulating memory accesses, c
 ## 🚀 Features
 - Simulates **cache memory operations**  
 - Tracks **cache hits and misses**  
-- Allows different **cache replacement policies** (extendable)  
+- Allows different **cache replacement policies** (LRU, LFU, MRU)  
 - Console-based Java program  
 
